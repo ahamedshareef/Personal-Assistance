@@ -1,0 +1,67 @@
+## XPATH Helper
+### User @ only when you have the attribute
+//input[@name='Usersname']
+//input[@name='Password']
+
+### use without the @ function with text if there is a clear text()
+//a[text()='Electronics']
+
+### Contains when unsure of the text or logn phrases
+//a[contains(text(),'Features')]
+
+
+### user the and operator and mentioned more than one attributes 
+//input[@name='Password' and class='basic']
+
+
+### buttons
+//buttons[@type='button']
+//buttons[@type='button' and @class='bts']
+//buttons[contains(text(),'Sign Up')]
+
+
+## when we dont get matches go one level down
+//div[@class='dropdown']//button[@type='button' and @class='alerts']
+
+### reverse engineering - Oracle Question ? how to click on the checkbox parent in a row of tables with name = Ahamed for example as below?
+
+|Name | State | Phone Number|
+|---|---|---|
+|Ahamed|Tamilnadu|9052222838|
+
+//a[text()='Ahamed']//parent::td[@class='']//preceding-sibling::td[]//input
+
+//a[text()='Ahamed']//parent::td[@class='']//forward-sibling::td[]//input
+
+//body//footer//p[1]//child::a[2]
+
+
+## Starts with  
+
+//p[starts-with(@class,'error-message ng-binding')]
+
+
+
+#CSS
+
+# for ID
+. for Class
+* for match string using substring
+^ for matching string  using prefix
+$ for matching attribute using suffix
+
+how us use is below:
+
+Tag and ID   eg: css=tag#id   -> css=input#email
+Tag and class  eg: css=tag.class -> css=input.inputtext
+Tag and attribute eg: css=tag[attribute=value]  -> css=input[name=lastName]
+Tag, class, and attribute   eg css=input.inputtext[tabindex=1]
+Inner text  css=tag:contains("inner text")  ->   css=font:contains(“Password:”)
+
+
+
+
+
+
+
+
