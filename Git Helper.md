@@ -20,11 +20,7 @@
 - git push -u origin main
 
 
-<style>
-r { color: Red }
-o { color: Orange }
-g { color: Green }
-</style>
+
 
 |Name | State | Phone Number|
 |---|---|---|
