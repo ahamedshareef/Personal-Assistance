@@ -1,0 +1,31 @@
+Useful Links:
+
+Chromer Versions: and Manager download
+https://googlechromelabs.github.io/chrome-for-testing/
+
+Firefox Version:
+https://wiki.mozilla.org/Release_Management/Product_details
+
+
+
+### WebDriver 4.12.0
+
+the new version does not need any Selenium Manager jar for Chrome and Firefox it is downloaded in ~/cache/ and then opens the browser -
+
+CFT chrome for Testing - this is the browser that will be downloaded when you use chrome
+Firefox also has dev, nightly, build versions
+
+## Why WebDriver driver = new ChromeDriver();
+
+we make sure that only WebDriver implemented mehtods are used and not any new methods that will be in ChromeDriver class - this may not work in all the browser. to keep things strict and generic
+
+## what is Selenium Manager and why do we need Chrome Driver.exe if we dont use Manager ??
+ - Selenium Manager on the back end downloads driver for the browser that is installed in local and downloads driver in ~/cache/selenium
+
+ - other wise before 4.11.0 we need to do below
+ - we need to setProperty("webdriver.chrome.driver","path to driver.exe"); 
+ - for Firefox setProperty("webdriver.gecko.driver","path to driver.exe"); 
+ 
+
+
+
