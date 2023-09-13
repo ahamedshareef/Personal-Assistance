@@ -1,4 +1,8 @@
-
+<style>
+r { color: Red }
+o { color: Orange }
+g { color: Green }
+</style>
 
 
 ## Below is the template given by Github
