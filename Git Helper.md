@@ -13,7 +13,7 @@ g { color: Green }
 
 
 
-<r> ##  Terms to know for beginners
+r ##  Terms to know for beginners
 - directory -> folder
 - terminal Command line -> interface for text commands / CLI command line interface
 - Know the workflow of git
