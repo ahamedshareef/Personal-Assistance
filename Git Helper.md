@@ -43,9 +43,24 @@ g { color: Green }
 - Git is a tool and GitHub is a website that can host your git repositories to showcase your work.
 
 ##  2. Basic Commands
-- <r> git clone -> bring a repository that is hosted somewhere like Github into a local machine folder
-- <r> git add -> tracking your changes and new files in Git.
-- <r> git commit -> commit/save to Git.
-- <r> git push -> from local push the changes / save the changes to remote repository/ Github
-- <r> git pull -> Download the changes from remote to local
+-  git clone -> bring a repository that is hosted somewhere like Github into a local machine folder
+-  git add -> tracking your changes and new files in Git.
+-  git commit -> commit/save to Git.
+-  git push -> from local push the changes / save the changes to remote repository/ Github
+-  git pull -> Download the changes from remote to local
+-  * repo -> repository
+* `clone` -> bring a repo down from the internet (remote repository like Github) to your local machine
+* `add` -> Track your files and changes with Git
+* `commit` -> save your changes into Git
+* `push` -> push your changes to your remote repo on Github (or another website)
+* `pull` -> Pull changes down from the remote repo to your local machine
+
+* `status` -> Check to see which files are being tracked or need to be committed
+* `init` -> Use this command inside of your project to turn it into a Git repository and start using Git with that codebase
+
+
+## Workaround for non-updating files and repositories
+- git reset -hard
+- git remote prune origin   -> deletes all the unreachable objects from the remote repository but it doesn't fetch them
+- git gc --prune=now -> deletes all the files that are not reachable from the current branch
 
