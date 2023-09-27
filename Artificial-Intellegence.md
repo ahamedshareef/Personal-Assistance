@@ -26,4 +26,10 @@
   
 10.  Write Code tool #6 https://bard.google.com/chat
 11.  Tool #7 finds bugs in coding, what's wrong https://debugcode.ai/  - write the filename and put in the code then write : what is wrong, why it is not working, etc.
+12.  Do not remember Excel formula/ Regular Expression etc. and get your work done: Tool #8 https://formula.dog/
+13.  Tool #9 - Most Powerful - ##linkenIn Phone Number and Email for any person
+- with great power comes great responsibility
+- Signal Hire ---## Generate Leads, ## Do more Reach out, ## Do more Networking.
+- https://www.signalhire.com/
+- 
      
