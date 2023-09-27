@@ -4,6 +4,9 @@
 
 1st Complete all 150 Questions of LeetCode
 
+2nd go thru 150 top problems with easy solutions in Takeuforward: 
+https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/
+
 
 ### 1. Arrays
 
