@@ -24,5 +24,6 @@
     - Eye contact, centering
     - pauses, number of words per minute. speech coach.
   
-10.  Write Code tool #6 
+10.  Write Code tool #6 https://bard.google.com/chat
+11.  Tool #7 finds bugs in coding, what's wrong https://debugcode.ai/  - write the filename and put in the code then write : what is wrong, why it is not working, etc.
      
