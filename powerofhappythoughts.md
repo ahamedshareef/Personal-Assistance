@@ -12,11 +12,11 @@
 
 ## workhard -> success -> happiness
 
-our bodies reduce anxitey and respond better and recover easitly.
+our bodies reduce anxitey and respond better and recover easily.
 
 if you spread happiness you will be happy. you can spread to 1000 people.
 
-its couraguious, 
+its couragious, 
 
 1st Excersie :
 look down think about a problem - small problem
@@ -25,8 +25,8 @@ then look up smile and open your hands and think the same problem.
 # introduction of Sir Shree - guy from
 
 ## which thoughts become reality ?
-
-2 points: Josh and Hosh
+Law of Direction
+2 points: Josh and Hosh 
 josh mei happy or hosh mei yakeen hai
 
 dont remove your happy hat. when the tent flew away you need to catch hat and remain happy you will get a concrete roof.
@@ -71,7 +71,7 @@ key is taKey, takey is the final destination in near future for you.
 
 
 # 12 Oct - 3rd law
-
+Law of Focus :
 - Focus on things you want, dont focus on things you dont want to happen.
 - what you want should be focus, if you say i dont want this, and big thing that 
 - There is a resistance within us 
@@ -138,26 +138,61 @@ Take one problem - Take one Emotion out of it.
 
 
 5 Mistakes:
-1. Focusing on Negative Goals ? eg: dont get poor
+1. Focusing on Negative Goals ? eg: dont get poor, dont get sugar.
 2. Taking Too big a Goal ? eg. dont take too many things to-gether. Take the next immediate goal, if you take too manythings, it will be too much for mind
 3. Resistance of the Goal. 
 Loop - Fear, Desperation, insecurity, Lack of Confidence will also come with Goals.
 Because of this Negative feelings it stops you from reaching your goals.
-4. 
+4. Making Goals Dependent. 
+eg: I will become CEO, but i will become in this company. this is dependent.
+I will marry this person only, you should be saying good person, not this person.
+I want property is okay, but someone should die for me to get property.
+Getting a job in SF is dependent goal, You should get high paying Job is indepedent goal.
+5. Not applying the whole happy thoughts system.
+eg:
 
 
 `#### `System for achieving small goals:  `#### `
 
-Step:1.  So that , Tell the Universice what you with 'So that'
+##Step:1.  
 
-Step:2   Go be / Check that, when you do the step2 you need to check what feeling you get like fear, desparation. the Gobe/ Go or Accept.
+So that , Tell the Universice what you with 'So that' for 3 times or more 
+in `Silence - wait for 30 secs`
 
-Step:3   Happy Hat / - do your Happy Hat
+##Step:2   
+
+Go be / Check that, when you do the step2 you need to check what feeling you get like fear, desparation. the Gobe/ Go or Accept.
+`Can i Let it go`
+`Can i let it be`
+`wait karo - 1 mins`
+
+##Step:3   
+
+Happy Hat / - do your Happy Hat giving gratitude that it has already happened. 
+
+`Celebrate and tell Thank you! Thank You! Thank You!` - kises se jalna nahi hai celebrate karna hai.
+
+Job searching: Come into the feeling of `YES` - when some else gets it you need to Celebrate it `YES Thank you! thank You! Thank You!` `Welcome Welcome Welcome`
+
+Hai ki feeling aana hai `You should have the feeling that you have the job` which feeling `Searching job is my Job`
+why do you want Job - 
 
 
+# This is my Big Goal: Next 6 Months
+# Find a better job with good health and worklife balanace and Money
+
+We came into Source - this is the simple system.
+
+Following 3 steps you will go into no mind state, that is the source, how many times you were in no mind state.
+
+FAQ:
+1. Dont take more than 3 goals together. not more than 3 goals
+2. how many days can i do it, daily for a month, then freq to tap it. like tapping the running tire.
+3. It works for you not for others
+4. Use for Rational Outcome, Qualities or Habits or clarity.
 
 
-
+![Alt text](image.png)
 
 
 
