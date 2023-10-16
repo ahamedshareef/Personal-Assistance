@@ -197,3 +197,22 @@ FAQ:
 
 
 
+# Mind Mastery.
+
+1. Physical Mastry.
+2. Mental Mastry.
+3. Social Mastry.
+4. Financial Mastry.
+5. Emotions Mastery.
+
+Habbit and Spirutual mastry.
+
+![Alt text](image-1.png)
+
+Goals which you should do.
+
+1. Be Healthy
+2. Remove most Negative Belief and Create Positive thought
+3. When you say, I am in state of abudence what ever finance status you have outside.
+Lotus Medidation - profit 10 times.
+4. 
