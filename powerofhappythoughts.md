@@ -211,8 +211,73 @@ Habbit and Spirutual mastry.
 
 Goals which you should do.
 
-1. Be Healthy
+1. Be Healthy, i am able to heal so that
 2. Remove most Negative Belief and Create Positive thought
 3. When you say, I am in state of abudence what ever finance status you have outside.
 Lotus Medidation - profit 10 times.
-4. 
+4. How your relation behavie with you, you can change.
+5. Emotions handeling is called Emotions mastry
+
+# 7 Codes of Mind:
+Subconciouse mind is world of pictures not words,
+
+1st Language which subconciouse mind is Pictures than words
+take a lemon and squeez it to tounge, subconciouse mind does not know the reality and imaginory.
+
+2nd code Emotions world   / Thoughts World - which world does subconcious mind??
+Subconcious mind understands more of Emotions not thoughts.
+
+You need to reward yourself for every habbit. Your nervouse system understand towards rewards and wants
+to repeat it. Reward Detector.
+Celebrations should have = Emotions + Actions.
+You need to Celebrate for Tiny Success.which will create more of same Habbit.
+
+3rd
+Subconciouse mind require Repeatition, Concious mind requires to be said only 1 time.
+tell you subconsious mind you can create money, you can create abundence.
+
+
+4th
+One mind requires Silince - Subconciouse
+One mind requires 
+You can access Subconciuse when you are not asleep but awake inbetween Beta and Theta
+Alpha State - Access Subconciouse
+
+5th
+Subconcious mind understand only simple things
+Show Paisa and take me to this money.
+
+
+6th 
+It does not understand NO.
+I want to be Active and I am Active.
+dont say : I dont want to be lazy
+I want health
+dont say : I dont want diabeties
+Give Positive Goals.
+
+7th
+Have faith in you so that Subconcious mind belives in you.
+More Faith than Fear.
+You can become Rich - if you fear is more, you subconcious mind will stop u from achieving it.
+When you keep Faith - Miracles can happen. if Allah Wills.
+
+
+
+Concious:           Subconciouse
+Captiain / Boss     Sailor / Employee
+Elephant Keeper     Elephant
+Alladdin            Geni
+Farmer              Soil
+Words               Pictures
+Thoughts            Emotions
+One Time            Repetition
+Noise               Likes Silents
+complex             Understands Simple words
+
+
+
+
+
+
+
